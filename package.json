@@ -1,0 +1,33 @@
+{
+  "name": "text-field-with-content",
+  "version": "1.0.1",
+  "description": "ReactJS MaterialUI TextField with fixed content. Usefull for measurement units like 'cm', 'kg', etc",
+  "keywords": [
+    "react",
+    "react-component",
+    "material design",
+    "material-ui",
+    "text field",
+    "measurement",
+    "units"
+  ],
+  "dependencies": {
+    "material-ui": "^0.19.1"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-dom": "*"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/ashl1/TextFieldWithContent.git",
+  "author": "Alexey Shildyakov <ashl1future@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/ashl1/TextFieldWithContent.git/issues"
+  },
+  "devDependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
